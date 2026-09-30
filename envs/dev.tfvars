@@ -1,3 +1,3 @@
 # envs/dev.tfvars
-environment   = "dev"
+environment   = "Dev"
 instance_type = "t3.small"

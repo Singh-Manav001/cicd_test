@@ -1,3 +1,3 @@
 # envs/staging.tfvars
-environment   = "staging"
+environment   = "Staging"
 instance_type = "t3.small"
